@@ -33,12 +33,12 @@ This is a fun and interactive country guessing game built using Python and the T
 2. Navigate to the directory containing the game script.
 3. Run the script using the following command:
    ```
-   python script_name.py
+   python CGG.py
    ```
-   Replace `script_name.py` with the name of the script file.
+   Replace `CGG.py` with the name of the script file.
 
 ## File Description
-- `script_name.py`: The main Python script containing the logic for the country guessing game.
+- `CGG.py`: The main Python script containing the logic for the country guessing game.
 
 ## Code Explanation
 1. **Country List**: Contains a comprehensive list of country names.
