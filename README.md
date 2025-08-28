@@ -73,3 +73,8 @@ This is a fun and interactive country guessing game built using Python and the T
 This game is designed to help improve geographic knowledge in an engaging way. Inspired by word-guessing games, it adds an educational twist with country names.
 
 Enjoy the game!
+
+
+## 💡 Credits
+
+Made by [Abhay Surya K S](https://github.com/AbhaySuryaKS/) 
