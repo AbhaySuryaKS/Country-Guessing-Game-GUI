@@ -75,6 +75,6 @@ This game is designed to help improve geographic knowledge in an engaging way. I
 Enjoy the game!
 
 
-## 💡 Credits
+## Credits
 
 Made by [Abhay Surya K S](https://github.com/AbhaySuryaKS/) 
